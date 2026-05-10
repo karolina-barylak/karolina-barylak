@@ -15,11 +15,11 @@ Zapraszam do zapoznania się z moimi projektami z analizy danych:
 - [Google Play Store Dashboard](https://github.com/kar-tix/Google-Play-Store-Dashboard)
   - Excel
   - Power Query
-  - Pivot Charts
+  - Pivot Tables/Charts
 - [Chocolate Sales Dashboard](https://github.com/kar-tix/Chocolate-Sales-Dashboard)
   - Excel
   - Power Query
-  - Pivot Charts
+  - Pivot Tables/Charts
 - [Czyszczenie danych](https://github.com/kar-tix/Data-Cleaning)
   - Excel
   - Power Query
