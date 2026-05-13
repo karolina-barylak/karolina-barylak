@@ -1,7 +1,10 @@
-## Cześć, jestem Karolina. 👋
+ <!--
+ ## Cześć, jestem Karolina. 👋
+-->
 
+![Cześć, jestem Karolina](img/head.png)
 </br></br>
-Początkujący analityk danych, który stawia pierwsze kroki w świecie pracy z danymi. Obecnie rozwijam swoje umiejętności w zakresie analizy danych, wizualizacji oraz pracy z narzędziami takimi jak SQL i Excel.
+Początkujący analityk danych, który stawia pierwsze kroki w świecie pracy z danymi. Obecnie rozwijam swoje umiejętności w zakresie analizy danych, wizualizacji oraz pracy z narzędziami takimi jak SQL, Excel i Power BI.
 
 ---
 
