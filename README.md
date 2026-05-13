@@ -1,6 +1,6 @@
-## Hi there 👋
+## Cześć, jestem Karolina. 👋
 
-Cześć, jestem Karolina. </br></br>
+</br></br>
 Początkujący analityk danych, który stawia pierwsze kroki w świecie pracy z danymi. Obecnie rozwijam swoje umiejętności w zakresie analizy danych, wizualizacji oraz pracy z narzędziami takimi jak SQL i Excel.
 
 ---
